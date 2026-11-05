@@ -17,14 +17,18 @@ Kata is our curious, patient red panda and your daily practice companion. A litt
 | Repository | Responsibility |
 | --- | --- |
 | [docs](https://github.com/SysKata-project/docs) | Product vision, architecture, roadmap, and contributor guidance |
-| [web](https://github.com/SysKata-project/web) | Learner experience, lessons, challenges, and progress views |
+| [app](https://github.com/SysKata-project/app) | Flutter application for iOS and Android: lessons, challenges, and progress |
 | [api](https://github.com/SysKata-project/api) | Learning progression, practice sessions, review, and achievements |
 | [labs](https://github.com/SysKata-project/labs) | Isolated practice environments and hands-on assessment tooling |
 | [content](https://github.com/SysKata-project/content) | Certification paths, original lessons, exercises, and review material |
 
+## Mobile learning
+
+SysKata is being designed as a Flutter application for iOS and Android, with short daily lessons, guided practice, targeted review, and visible progress. Kata accompanies learners through each milestone. Explore the [application specification](https://github.com/SysKata-project/app/blob/main/docs/product.md).
+
 ## Project status
 
-SysKata is in initial planning. These repositories describe the intended components; a working platform is not yet available. Implementation choices and the first supported certification path remain to be decided.
+SysKata is in initial planning. These repositories describe the intended components; a working platform is not yet available. Flutter is selected for the iOS and Android application. Backend implementation choices and the first supported certification path remain to be decided.
 
 ## Get involved
 
