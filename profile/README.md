@@ -1,10 +1,16 @@
 # SysKata
 
+<img src="https://raw.githubusercontent.com/SysKata-project/.github/main/assets/branding/syskata-logo-v1.png" alt="SysKata logo featuring Kata the red panda" width="640">
+
 Build technical mastery, a little every day.
 
 SysKata is a learning platform that turns technical training into a daily practice habit, with a primary focus on Red Hat certification paths. Short guided lessons, hands-on challenges, immediate feedback, and targeted review help learners build practical skills for performance-based exams and work.
 
 Learners progress from individual commands to realistic administrative tasks, supported by daily goals, streaks, visible progress, and achievement milestones.
+
+## Meet Kata
+
+Kata is our curious, patient red panda and your daily practice companion. A little practice each day builds lasting technical confidence. [Meet Kata and explore the brand assets](https://github.com/SysKata-project/.github/tree/main/assets/branding).
 
 ## Explore the project
 
